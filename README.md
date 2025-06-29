@@ -4,7 +4,7 @@ This project analyzes crime trends in Mexico from 2015 to 2024, integrating crim
 
 ## 📂 Files Included
 
-- `Dataset&Poverty.html`: Interactive visualizations exploring the correlation between poverty and crime.
+- `Dataset&Poverty.ipynb`: Jupyter notebook  visualizations exploring the correlation between poverty and crime.
 - `Population&Crime.ipynb`: Jupyter notebook analyzing crime trends, population data, and spatial distributions.
 
 ## 📊 Data Sources
